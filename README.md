@@ -18,6 +18,14 @@ Create a .env file in the root directory and update it with your Discord and GRO
 
 Create a data directory, and put your files (text and/or PDF) in it.
 
+Install Ollama:
+
+curl -fsSL https://ollama.com/install.sh | sh
+
+Now pull the embedding model:
+
+ollama pull nomic-embed-text
+
 To start the bot, run the following command:
 
 python main.py
