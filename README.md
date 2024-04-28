@@ -26,6 +26,10 @@ Now pull the embedding model:
 
 ollama pull nomic-embed-text
 
+Install the requirements:
+
+python install -r requirements
+
 To start the bot, run the following command:
 
 python main.py
