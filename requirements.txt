@@ -35,7 +35,7 @@ distro-info==1.1+ubuntu0.2
 exceptiongroup==1.2.1
 fail2ban==0.11.2
 fastapi==0.110.2
-filelock==3.20.1
+filelock==3.20.3
 flatbuffers==24.3.25
 frozenlist==1.4.1
 fsspec==2024.3.1
